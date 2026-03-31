@@ -1,0 +1,9 @@
+# Compiled files
+hello
+*.o
+a.out
+
+# Temporary files
+*.dat
+
+
